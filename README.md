@@ -51,7 +51,7 @@ You will need to have Java (JDK 21 or higher) and Apache Maven installed on your
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/Pontinn/live-chat.git](https://github.com/Pontinn/live-chat.git)
+    git clone https://github.com/Pontinn/live-chat.git
     ```
 2.  **Navigate to the project directory:**
     ```sh
